@@ -1,2 +1,1 @@
-# Curso-jvscript
-Este es un repositorio del curso de jvscript
+Esta es una prueba de como crear un repositorio y guardarlo en forma local en mi pc
